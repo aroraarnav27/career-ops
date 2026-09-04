@@ -1,0 +1,28 @@
+{
+  "millennium": [
+    {
+      "title": "Equities Analyst Program, New York",
+      "url": "https://campusjobs.mlp.com/careers/job/755955763508-equities-analyst-program-new-york-new-york-new-york-united-states-of-america?domain=mlp.com&microsite=campus-site",
+      "status": "seen_closed",
+      "first_seen": "2026-08-31",
+      "note": "Confirmed dead via Playwright 2026-09-01 (baseline: no Apply button, absent from live open-jobs listing). Still appears in search-engine results (Millennium's own campus site listing, Nabla Careers, MIT CDO) as of 2026-09-04, but live status could not be re-verified this run: WebFetch to campusjobs.mlp.com was egress-blocked in this environment, and this is a headless/batch run with no Playwright available. Not upgraded to seen_open without direct verification -- treat as still closed until confirmed live on a Playwright-capable run."
+    },
+    {
+      "title": "2027 Broker Relations Data Analyst Intern, New York",
+      "url": "https://campusjobs.mlp.com/careers/job/755957778841-2027-broker-relations-data-analyst-intern-new-york-new-york-new-york-united-states-of-america?domain=mlp.com",
+      "status": "seen_open",
+      "first_seen": "2026-09-04",
+      "note": "Found via WebSearch only (live status unverified -- WebFetch blocked). Broker-relations/data-focused internship, not the equity-research/investment-analyst archetype and not full-time -- excluded from notification criteria."
+    },
+    {
+      "title": "Millennium Investment Internship 2027, New York",
+      "url": "https://campusjobs.mlp.com/careers/job/755954628827-millennium-investment-internship-2027-new-york-new-york-new-york-united-states-of-america?domain=mlp.com&microsite=campus-site",
+      "status": "seen_open",
+      "first_seen": "2026-09-04",
+      "note": "Found via WebSearch only (live status unverified -- WebFetch blocked). Summer internship, not full-time; no explicit statement it is a direct pipeline to a full-time analyst seat -- excluded from notification criteria pending clarification."
+    }
+  ],
+  "ares": [],
+  "last_checked": "2026-09-04",
+  "verification_note": "Batch/headless run: Playwright is unavailable in this environment. WebFetch was egress-blocked for every target domain tried this run (campusjobs.mlp.com, career.mlp.com, www.mlp.com, ares.com, linkedin.com, glassdoor.com, indeed.com, ziprecruiter.com, nablacareers.com, resources.cdo.mit.edu) -- all findings above came from WebSearch result summaries only, which AGENTS.md explicitly says never to trust for liveness verification. No posting was reported as a confirmed new live opening this run as a result. Ares: no full-time entry-level Analyst/Associate/Graduate Program posting surfaced in search; the only Ares early-career item found was a 2027 Summer Internship Program (grad window Dec 2027-Aug 2028), which does not match Arnav's Dec 2026-May/June 2027 grad timeline and is not full-time, so it was not added as a tracked candidate."
+}
