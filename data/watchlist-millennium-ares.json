@@ -5,28 +5,28 @@
       "url": "https://campusjobs.mlp.com/careers/job/755955763508-equities-analyst-program-new-york-new-york-new-york-united-states-of-america?domain=mlp.com&microsite=campus-site",
       "status": "seen_closed",
       "first_seen": "2026-08-31",
-      "note": "Confirmed dead via Playwright 2026-09-01 (baseline: no Apply button, absent from live open-jobs listing). Still surfaces in search-engine results (same job ID) as of 2026-09-07, but live status could not be re-verified this run either: WebFetch to campusjobs.mlp.com returned EGRESS_BLOCKED (proxy-level block, not a page error) and this is a headless/batch run with no Playwright available. Not upgraded to seen_open without direct verification -- treat as still closed until confirmed live on a Playwright-capable run."
+      "note": "Confirmed dead via Playwright 2026-09-01 (baseline: no Apply button, absent from live open-jobs listing). Still surfaces in search-engine results (same job ID) as of 2026-09-10, but live status could not be re-verified this run either: WebFetch to campusjobs.mlp.com returned EGRESS_BLOCKED (proxy-level block, not a page error) and this is a headless/batch run with no Playwright available. Not upgraded to seen_open without direct verification -- treat as still closed until confirmed live on a Playwright-capable run."
     },
     {
       "title": "2027 Broker Relations Data Analyst Intern, New York",
       "url": "https://campusjobs.mlp.com/careers/job/755957778841-2027-broker-relations-data-analyst-intern-new-york-new-york-new-york-united-states-of-america?domain=mlp.com",
       "status": "seen_open",
       "first_seen": "2026-09-04",
-      "note": "Found via WebSearch only (live status unverified -- WebFetch blocked both this run and last). Broker-relations/data-focused internship, not the equity-research/investment-analyst archetype and not full-time -- excluded from notification criteria."
+      "note": "Found via WebSearch only (live status unverified -- WebFetch blocked every run so far). Broker-relations/data-focused internship, not the equity-research/investment-analyst archetype and not full-time -- excluded from notification criteria."
     },
     {
       "title": "Millennium Investment Internship 2027, New York",
       "url": "https://campusjobs.mlp.com/careers/job/755954628827-millennium-investment-internship-2027-new-york-new-york-new-york-united-states-of-america?domain=mlp.com&microsite=campus-site",
       "status": "seen_open",
       "first_seen": "2026-09-04",
-      "note": "Found via WebSearch only (live status unverified -- WebFetch blocked both this run and last). Summer internship, not full-time; no explicit statement it is a direct pipeline to a full-time analyst seat -- excluded from notification criteria pending clarification."
+      "note": "Found via WebSearch only (live status unverified -- WebFetch blocked every run so far). Summer internship, not full-time; no explicit statement it is a direct pipeline to a full-time analyst seat -- excluded from notification criteria pending clarification."
     },
     {
       "title": "Graduate Analyst - Trading & Quant, London",
       "url": "https://campusjobs.mlp.com/careers/job/755953604623-graduate-analyst-%E2%80%93-trading-quant-london-united-kingdom?domain=mlp.com&microsite=campus-site",
       "status": "seen_open",
       "first_seen": "2026-09-07",
-      "note": "NEW this run, found via WebSearch only on campusjobs.mlp.com (Millennium's own domain) -- WebFetch to that domain returned EGRESS_BLOCKED, so live status/Apply-button presence could not be confirmed, and AGENTS.md forbids trusting WebSearch alone for liveness. Also a poor fit even if live: London (not the NY/US base implied by his search) and Trading & Quant function, not the equity-research/investment-analyst archetype he's targeting; no grad-year specified in the title, so the Dec 2026-May/June 2027 window is unconfirmed too. Logged as a candidate but NOT emailed -- fails both the verification bar and the archetype/location fit, and does not clear the bar this watch uses for a fast-apply alert."
+      "note": "Found via WebSearch only on campusjobs.mlp.com (Millennium's own domain) -- WebFetch to that domain returned EGRESS_BLOCKED every run so far, so live status/Apply-button presence could not be confirmed, and AGENTS.md forbids trusting WebSearch alone for liveness. Also a poor fit even if live: London (not the NY/US base implied by his search) and Trading & Quant function, not the equity-research/investment-analyst archetype he's targeting; no grad-year specified in the title, so the Dec 2026-May/June 2027 window is unconfirmed too. Logged as a candidate but NOT emailed -- fails both the verification bar and the archetype/location fit."
     }
   ],
   "ares": [
@@ -35,9 +35,9 @@
       "url": "https://www.ares.com/us/careers/early-careers",
       "status": "seen_open",
       "first_seen": "2026-09-07",
-      "note": "Found via WebSearch only (ares.com WebFetch returned EGRESS_BLOCKED this run; page never verified directly). Targets students graduating Dec 2027-Aug 2028 -- one full grad-cycle later than Arnav's Dec 2026-May/June 2027 window -- so it does not match his timeline and was not added as a real candidate for notification. No full-time Analyst/Associate/Graduate Program posting for the Dec 2026-2027 grad window surfaced in search this run; LinkedIn results returned only prior-cycle (2023-2025) Summer Analyst postings, all closed/expired by definition."
+      "note": "Found via WebSearch only (ares.com WebFetch returned EGRESS_BLOCKED every run so far; page never verified directly). Targets students graduating Dec 2027-Aug 2028 -- one full grad-cycle later than Arnav's Dec 2026-May/June 2027 window -- so it does not match his timeline and was not added as a real candidate for notification. Confirmed again this run via WebSearch (Extern/Finbound guides): applications opened 2026-08-31, interviews Sep-Nov 2026, offers by Dec 2026, for the Summer 2027 (grad Dec 2027-Aug 2028) cohort -- still the wrong grad cycle for Arnav."
     }
   ],
-  "last_checked": "2026-09-07",
-  "verification_note": "Batch/headless run: Playwright is unavailable in this environment. WebFetch was EGRESS_BLOCKED for every target domain tried this run (campusjobs.mlp.com, ares.com) -- same as the prior run -- so every finding above comes from WebSearch result summaries only, which AGENTS.md explicitly says never to trust for liveness verification. No posting was reported as a confirmed new live opening this run as a result, and no email was sent. One new URL surfaced (Millennium 'Graduate Analyst - Trading & Quant, London') but was excluded from notification on both verification grounds (unconfirmed live) and fit grounds (wrong location/function/uncertain grad-year for his target archetype and window)."
+  "last_checked": "2026-09-10",
+  "verification_note": "Batch/headless run: Playwright is unavailable in this environment. WebFetch was EGRESS_BLOCKED for every target domain tried this run (campusjobs.mlp.com, www.ares.com) -- same as every prior run -- so every finding above comes from WebSearch result summaries only, which AGENTS.md explicitly says never to trust for liveness verification. This run's searches (site:campusjobs.mlp.com, LinkedIn Millennium/Ares analyst searches, Ares Workday/myworkdayjobs.com analyst listings, Ares campus-recruiting queries) surfaced no title+URL not already recorded below. Ares' additional Workday-listed Analyst roles (FP&A, Client Services, Consultant Relations, Risk Analytics, Direct Lending, Portfolio Management, etc.) all read as experienced-hire postings (no entry-level/new-grad/2027 language, consistent with the 1-4 yrs experience requirements seen on similar Ares Analyst listings in prior runs) and were not added as unverified candidates. No posting was reported as a confirmed new live opening this run; no email was sent."
 }
