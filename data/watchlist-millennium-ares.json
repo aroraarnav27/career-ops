@@ -125,6 +125,62 @@
       "status": "seen_open",
       "first_seen": "2026-09-25",
       "note": "New this run, found via WebSearch. Search summaries describe an execution/trading-focused role with a $70k-$160k base range and no grad-year language -- reads as experienced-hire, not the equity-research/investment-analyst archetype. Excluded from notification criteria."
+    },
+    {
+      "title": "2027 Market Risk Intern, Hong Kong",
+      "url": "https://mlp.eightfold.ai/careers/job/755957778844",
+      "status": "seen_open",
+      "first_seen": "2026-10-01",
+      "note": "New this run, surfaced in the direct campusjobs.mlp.com 'Analyst' search (REQ-30196, 29 open jobs total this run). Market Risk internship, Hong Kong -- not full-time and not the equity-research/investment-analyst archetype. Excluded from notification criteria."
+    },
+    {
+      "title": "Off-Cycle Trading Intern - Quantitative Researcher, 2026, Shanghai",
+      "url": "https://mlp.eightfold.ai/careers/job/755953958409",
+      "status": "seen_open",
+      "first_seen": "2026-10-01",
+      "note": "New this run, same campusjobs.mlp.com search (REQ-27820). Off-cycle Trading/QR internship, Shanghai -- not full-time, not the target archetype. Excluded."
+    },
+    {
+      "title": "Off-Cycle Trading Intern - AI Engineering, 2026, Hong Kong",
+      "url": "https://mlp.eightfold.ai/careers/job/755958163102",
+      "status": "seen_open",
+      "first_seen": "2026-10-01",
+      "note": "New this run, same search (REQ-30687). AI Engineering internship, Hong Kong -- not full-time, not the target archetype. Excluded."
+    },
+    {
+      "title": "Off-Cycle Trading Intern - AI Engineering, 2026, Shanghai",
+      "url": "https://mlp.eightfold.ai/careers/job/755958163900",
+      "status": "seen_open",
+      "first_seen": "2026-10-01",
+      "note": "New this run, same search (REQ-30688). AI Engineering internship, Shanghai -- not full-time, not the target archetype. Excluded."
+    },
+    {
+      "title": "2027 Quantitative Researcher Intern, Dubai",
+      "url": "https://mlp.eightfold.ai/careers/job/755958178377",
+      "status": "seen_open",
+      "first_seen": "2026-10-01",
+      "note": "New this run, same search (REQ-30700). QR internship, Dubai -- not full-time, not the target archetype. Excluded."
+    },
+    {
+      "title": "2027 Quantitative Researcher Intern, Austin",
+      "url": "https://mlp.eightfold.ai/careers/job/755957998254",
+      "status": "seen_open",
+      "first_seen": "2026-10-01",
+      "note": "New this run, same search (REQ-30475). QR internship, Austin -- not full-time, not the target archetype. Excluded."
+    },
+    {
+      "title": "2027 Quantitative Researcher Intern, Zug",
+      "url": "https://mlp.eightfold.ai/careers/job/755957962398",
+      "status": "seen_open",
+      "first_seen": "2026-10-01",
+      "note": "New this run, same search (REQ-30453). QR internship, Zug (Switzerland) -- not full-time, not the target archetype. Excluded."
+    },
+    {
+      "title": "2027 Quantitative Developer Intern, Hong Kong",
+      "url": "https://mlp.eightfold.ai/careers/job/755957854172",
+      "status": "seen_open",
+      "first_seen": "2026-10-01",
+      "note": "New this run, same search (REQ-30359). Quant Developer internship, Hong Kong -- not full-time, not the target archetype. Excluded."
     }
   ],
   "ares": [
@@ -133,7 +189,7 @@
       "url": "https://www.ares.com/us/careers/early-careers",
       "status": "seen_open",
       "first_seen": "2026-09-07",
-      "note": "Directly re-fetched via Firecrawl on 2026-09-25 (HTTP 200, full page content, bypassing our own blocked egress to ares.com). Confirmed current text: 'Ares' 2027 Summer Internship Program is open to current students who intend to graduate between December 2027 and August 2028' -- one full grad-cycle later than Arnav's Dec 2026-May/June 2027 window. Program start listed as June 2027 but for the wrong (younger) cohort. No full-time Analyst Program / campus-hire posting for the Dec 2026-2027 grad window is mentioned anywhere on this page. Not a candidate for notification."
+      "note": "Directly re-fetched via Firecrawl on 2026-09-25 (HTTP 200, full page content, bypassing our own blocked egress to ares.com). Confirmed current text: 'Ares' 2027 Summer Internship Program is open to current students who intend to graduate between December 2027 and August 2028' -- one full grad-cycle later than Arnav's Dec 2026-May/June 2027 window. Program start listed as June 2027 but for the wrong (younger) cohort. No full-time Analyst Program / campus-hire posting for the Dec 2026-2027 grad window is mentioned anywhere on this page. Not a candidate for notification. Reconfirmed unchanged via Firecrawl 2026-10-01."
     },
     {
       "title": "2027 Summer Intern (Workday req R8506)",
@@ -141,8 +197,15 @@
       "status": "seen_open",
       "first_seen": "2026-09-22",
       "note": "Same 2027 Summer Internship Program as the early-careers page above (wrong Dec 2027-Aug 2028 grad cohort, internship not full-time). Excluded from notification criteria for the same reasons."
+    },
+    {
+      "title": "Analyst, Private Equity Secondaries, New York (Workday R8076)",
+      "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/New-York-NY/Analyst--Private-Equity-Secondaries_R8076",
+      "status": "seen_open",
+      "first_seen": "2026-10-01",
+      "note": "New this run -- surfaced in the targeted web search for Ares + Analyst + entry level + 2027, and in a direct Ares Workday 'Private Equity Secondaries' search (22 jobs). Directly pulled the full JD via Firecrawl: despite the 'Analyst' title, 'Education/Experience Required' explicitly states '1-3 years of experience in private equity secondaries, investment banking, private equity, or principal investing,' and the body text says the firm is 'looking to hire an Associate.' Posted 30 days ago per the listing. This is an experienced-hire role, not entry-level/new-grad, and not the equity-research/public-markets archetype (PE secondaries, not equities). Excluded from notification criteria."
     }
   ],
-  "last_checked": "2026-09-28",
-  "verification_note": "2026-09-28 run: direct Firecrawl re-fetches (maxAge:0) of all key pages, same access path that worked 2026-09-25 (our own WebFetch/curl remain EGRESS_BLOCKED to these domains). Findings: (1) campusjobs.mlp.com's live 'Analyst' search now shows 29 open jobs (down from the 56-job total listing seen 2026-09-25) -- still zero 'Analyst Program' or full-time equity-research/investment-analyst-titled role; only internships plus one unrelated full-time 'Compliance Analyst' (London, logged above). (2) Millennium's Workday-mirror listing for the NY Equities Analyst Program (REQ-24769-1), left unresolved on 2026-09-25 pending a client-render issue, now directly resolves to a Workday 404-equivalent ('the page you are looking for doesn't exist') -- confirmed closed. (3) The Eightfold NY Equities Analyst Program job ID (755942100027) was re-fetched and still returns 'The job you are looking for may have closed.' -- still closed. (4) www.ares.com/us/careers/early-careers unchanged: still explicitly Dec 2027-Aug 2028 grad cohort, no full-time Analyst Program mentioned. (5) Ran two full Ares Workday searches this run ('Analyst' and 'Analyst Program', both returning the same 60-job result set) -- every result is an experienced-hire title (Analyst/Senior Associate/VP/Associate on specific accounting, product, legal, technology or investor-services teams, mostly Mumbai/NY/HK/Sydney), none carrying new-grad or Dec 2026-2027 grad-year language. A supplementary WebSearch for 'Ares Management Analyst Program OR Graduate Program 2027' surfaced no Ares-specific full-time analyst program either. No posting meeting BOTH the entry-level equity-research/investment-analyst archetype AND a directly-verified-live status for the Dec 2026-2027 grad window was found at either firm this run. No email was sent."
+  "last_checked": "2026-10-01",
+  "verification_note": "2026-10-01 run: direct Firecrawl fetches (maxAge:0) of campusjobs.mlp.com's live 'Analyst' search, mlp career pages, www.ares.com/careers, www.ares.com/us/careers/early-careers, and the Ares Workday external board ('Analyst' query, 64 jobs; 'Private Equity Secondaries' query, 22 jobs), plus targeted web searches for both companies. Findings: (1) campusjobs.mlp.com's 'Analyst' search still shows 29 open jobs, same count as 2026-09-28 -- no 'Equities Analyst Program' or any full-time equity-research/investment-analyst-titled role; the only items not already tracked were 8 new 2026/2027 internship postings (Market Risk HK, Off-Cycle Trading QR/AI-Eng Shanghai+HK x2, QR Dubai/Austin/Zug, Quant Developer HK), all logged above and excluded (internships, non-US or non-target function). (2) All three previously-tracked 'Equities Analyst Program' postings (Eightfold NY, Eightfold London, Workday REQ-24769-1) remain closed -- not re-checked by direct fetch this run since no new candidate URL surfaced for them, but nothing in this run's live listings or web search contradicts their closed status. (3) www.ares.com/careers and /us/careers/early-careers unchanged: Early Careers is still exclusively the Dec 2027-Aug 2028 Summer Internship cohort; the 'Full-time Opportunities' link only routes to the general Workday board, no dedicated full-time Analyst/Graduate Program. (4) The Ares Workday board's 'Analyst' search (64 total, first page of 20 reviewed) returned exclusively experienced-hire-shaped titles (Direct Lending, Fund Accounting, Real Estate Portfolio Management, Client Services, Wealth Management Solutions, Legal/Compliance Tech), mostly Mumbai/NY/Denver/HK, none carrying new-grad or Dec 2026-2027 grad-year language -- consistent with prior runs. (5) A targeted web search for 'Ares Management Analyst Program OR Graduate Program 2027' surfaced one specific candidate, 'Analyst, Private Equity Secondaries' (R8076, NY), which was pulled and read in full: it requires 1-3 years of prior PE/IB experience and explicitly says they're hiring an Associate -- not entry-level, logged and excluded above. The same search also surfaced app.the-trackr.com's '2027 US Finance Tracker' (a third-party tracker of finance full-time analyst programs), which lists Ares Management's 2027 Full-Time Analyst Program row as 'Programme Name TBC' with no opening/closing dates -- external confirmation that no full-time entry-level Analyst Program has been announced yet. No posting meeting BOTH the entry-level equity-research/investment-analyst archetype AND a directly-verified-live status for the Dec 2026-2027 grad window was found at either firm this run. No email was sent."
 }
