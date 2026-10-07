@@ -181,6 +181,20 @@
       "status": "seen_open",
       "first_seen": "2026-10-01",
       "note": "New this run, same search (REQ-30359). Quant Developer internship, Hong Kong -- not full-time, not the target archetype. Excluded."
+    },
+    {
+      "title": "2027 Quantitative Developer Intern, London",
+      "url": "https://mlp.eightfold.ai/careers/job/755957819517",
+      "status": "seen_open",
+      "first_seen": "2026-10-07",
+      "note": "New this run, surfaced in a direct Firecrawl fetch (maxAge:0) of campusjobs.mlp.com's live 'Analyst' search (REQ-30280, 24 open jobs total this run). Quant Developer internship, London -- not full-time, not the equity-research/investment-analyst archetype. Excluded from notification criteria."
+    },
+    {
+      "title": "2027 Quantitative Developer Intern, New York",
+      "url": "https://mlp.eightfold.ai/careers/job/755957819661",
+      "status": "seen_open",
+      "first_seen": "2026-10-07",
+      "note": "New this run, same direct campusjobs.mlp.com 'Analyst' search (REQ-30284). Quant Developer internship, New York -- not full-time, not the equity-research/investment-analyst archetype. Excluded from notification criteria."
     }
   ],
   "ares": [
@@ -211,8 +225,57 @@
       "status": "seen_closed",
       "first_seen": "2026-10-04",
       "note": "New this run, found via web search for Ares + Analyst + entry level + 2027 graduate. Firecrawl could not scrape the LinkedIn posting directly ('site not supported'), but the search result snippet itself states 'No longer accepting applications' -- already closed on discovery. Also London-based real estate equity, not the NY/equity-research-and-investment-analyst archetype targeted. Not a candidate for notification regardless."
+    },
+    {
+      "title": "Analyst, APAC Relationship Management (Hong Kong and Southeast Asia) (Workday R8357-1)",
+      "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/Hong-Kong/Analyst--APAC-Relationship-Management--Hong-Kong-and-Southeast-Asia-_R8357-1",
+      "status": "seen_open",
+      "first_seen": "2026-10-07",
+      "note": "New this run, surfaced in a direct Ares Workday 'Analyst' keyword search (59 jobs total -- a broad experienced-hires board search, not an early-careers filter). Relationship Management function in Hong Kong, not the equity-research/investment-analyst archetype; no entry-level/grad-year language surfaced. Excluded from notification criteria."
+    },
+    {
+      "title": "Analyst/Associate, APAC Relationship Management, Sydney (Workday R8235-1)",
+      "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/Sydney-Australia/Analyst-Associate--APAC-Relationship-Management_R8235-1",
+      "status": "seen_open",
+      "first_seen": "2026-10-07",
+      "note": "New this run, same Workday 'Analyst' search. Relationship Management, Sydney, dual Analyst/Associate-leveled title -- not the equity-research/investment-analyst archetype, no entry-level/grad-year language. Excluded from notification criteria."
+    },
+    {
+      "title": "Analyst/Associate, APAC Relationship Management, Hong Kong (Workday R8232-1)",
+      "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/Hong-Kong/Analyst-Associate--APAC-Relationship-Management_R8232-1",
+      "status": "seen_open",
+      "first_seen": "2026-10-07",
+      "note": "New this run, same Workday 'Analyst' search. Relationship Management, Hong Kong, dual Analyst/Associate-leveled title -- not the equity-research/investment-analyst archetype, no entry-level/grad-year language. Excluded from notification criteria."
+    },
+    {
+      "title": "Analyst, Real Estate (Portfolio Management), Los Angeles/Chicago (Workday R7776)",
+      "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/Los-Angeles-CA---Century-City/Analyst--Real-Estate--Portfolio-Management-_R7776",
+      "status": "seen_open",
+      "first_seen": "2026-10-07",
+      "note": "New this run, same Workday 'Analyst' search. Directly pulled the full JD via Firecrawl: 'Required Knowledge, Skills & Abilities' states '1 to 2 years of applicable work experience, preferably in commercial real estate ... or investment banking.' Experienced-hire, not entry-level/new-grad; also real estate portfolio management, not equity-research. Excluded from notification criteria."
+    },
+    {
+      "title": "Analyst, Portfolio Management US Direct Lending, Mumbai (Workday R8606)",
+      "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/Mumbai-India/Analyst--Portfolio-Management-US-Direct-Lending_R8606",
+      "status": "seen_open",
+      "first_seen": "2026-10-07",
+      "note": "New this run, same Workday 'Analyst' search. Directly pulled the full JD via Firecrawl: requires an MBA/equivalent degree plus '0-3 years of relevant investment banking / fund / advisor experience,' and is based in Mumbai. Not entry-level-undergrad/new-grad, not NY, not the equity-research archetype. Excluded from notification criteria."
+    },
+    {
+      "title": "US Client Services, Exchange Services, Analyst, Denver (Workday R8431)",
+      "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/Denver-CO/US-Client-Services--Exchange-Services--Analyst_R8431",
+      "status": "seen_open",
+      "first_seen": "2026-10-07",
+      "note": "New this run, same Workday 'Analyst' search. Client Services/Exchange Services function in Denver -- not the equity-research/investment-analyst archetype, no entry-level/grad-year language surfaced (title and JD not fetched in full). Excluded from notification criteria."
+    },
+    {
+      "title": "Associate/Sr. Associate - Investment Risk Analyst, Ares Insurance Solutions (Workday R8537)",
+      "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/New-York-NY/Associate-Sr-Associate---Investment-Risk-Analyst--Ares-Insurance-Solutions--AIS-_R8537",
+      "status": "seen_open",
+      "first_seen": "2026-10-07",
+      "note": "New this run, same Workday 'Analyst' search. Title itself is Associate/Sr. Associate leveled (Analyst is a parenthetical function descriptor, not the job level) -- experienced-hire, not entry-level/new-grad. Excluded from notification criteria."
     }
   ],
-  "last_checked": "2026-10-04",
-  "verification_note": "2026-10-04 run: direct Firecrawl fetches (maxAge:0) of campusjobs.mlp.com's live 'Analyst' search (29 open jobs, identical listing to 2026-10-01 -- no new postings, no 'Equities Analyst Program'), www.ares.com/careers, www.ares.com/us/careers/early-careers (unchanged -- still exclusively the Dec 2027-Aug 2028 Summer Internship cohort, program start June 2027, no full-time Analyst/Graduate Program), plus targeted web searches for both companies and a check of app.the-trackr.com's company pages. Findings: (1) Millennium: campusjobs.mlp.com shows the exact same 29 open jobs as the prior run -- zero new postings of any kind, and the-trackr's UK Finance Tracker confirms the one tracked 'Equities Analyst Program' listing (job 755955763508) closed 22 Jul 2026, consistent with its already-recorded seen_closed status. All web search hits for 'Millennium Management Analyst entry level 2027' were either already-tracked postings or unrelated spam/escort-ad pages using job titles as SEO bait (ignored). (2) Ares: app.the-trackr.com/company/ares-management confirms the US Finance full-time program row is still 'Soon' / 'Programme Name TBC' with no open/close dates -- no full-time Analyst Program has been announced yet; the UK Summer Analyst Programme 2027 (an internship, already excluded) is now listed 'Closed' (18 Aug-20 Sep 2026). One new candidate surfaced via web search, 'Analyst, Real Estate Equity, London' -- the LinkedIn posting itself could not be scraped (Firecrawl declined the domain), but the search snippet already states 'No longer accepting applications,' and it's real-estate equity in London, not the NY equity-research/investment-analyst archetype, so it would have been excluded even if open. The Ares Workday 'Analyst' search was not re-queried directly this run (used in the 2026-10-01 run); nothing in this run's searches suggests a new full-time Analyst Program appeared there. No posting meeting BOTH the entry-level equity-research/investment-analyst archetype AND a directly-verified-live status for the Dec 2026-2027 grad window was found at either firm this run. No email was sent."
+  "last_checked": "2026-10-07",
+  "verification_note": "2026-10-07 run: direct Firecrawl fetches (maxAge:0) of campusjobs.mlp.com's live 'Analyst' search (24 open jobs -- down from 29 on 2026-10-01, but still no 'Equities Analyst Program' or any full-time entry-level Analyst role; two new 2027 Quantitative Developer Intern postings surfaced, London and New York, both excluded as internships), www.ares.com/careers and www.ares.com/us/careers/early-careers (both unchanged -- still exclusively the Dec 2027-Aug 2028 Summer Internship cohort, program start June 2027, no full-time Analyst/Graduate Program announced), plus a direct Ares Workday 'Analyst' keyword search (59 jobs on the general experienced-hires board) and targeted web searches for both companies. Findings: (1) Millennium: the attempted R5877 Ares Workday URL from search results 404'd on the exact slug Firecrawl returned, but the corrected R5877-1 URL ('Associate, Portfolio Management, Direct Lending') and all other newly-surfaced Workday 'Analyst' hits were checked by title/snippet; none carry entry-level/new-grad language. The previously-closed 'Equities Analyst Program' (all NY/London/Workday variants) remains absent from the live campusjobs.mlp.com listing -- still closed. (2) Ares: pulled full JDs for the two most plausible 'Analyst' hits on the Workday board (Real Estate Portfolio Management, R7776: requires 1-2 yrs experience; Portfolio Management US Direct Lending, R8606: requires MBA + 0-3 yrs experience) -- both experienced-hire, not entry-level-undergrad. app.the-trackr.com/company/ares-management (checked in the prior run, 2026-10-04) confirmed the US Finance full-time program was still 'Soon'/TBC with no open date; nothing in this run's searches suggests that has changed. No posting meeting BOTH the entry-level equity-research/investment-analyst archetype AND a directly-verified-live status for the Dec 2026-2027 grad window was found at either firm this run. No email was sent."
 }
