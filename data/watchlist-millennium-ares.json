@@ -195,6 +195,13 @@
       "status": "seen_open",
       "first_seen": "2026-10-07",
       "note": "New this run, same direct campusjobs.mlp.com 'Analyst' search (REQ-30284). Quant Developer internship, New York -- not full-time, not the equity-research/investment-analyst archetype. Excluded from notification criteria."
+    },
+    {
+      "title": "2027 Quantitative Developer Intern, Tel Aviv",
+      "url": "https://mlp.eightfold.ai/careers/job/755957819689",
+      "status": "seen_open",
+      "first_seen": "2026-10-10",
+      "note": "New this run, surfaced in a direct Firecrawl fetch (maxAge:0) of campusjobs.mlp.com's live 'Analyst' search (REQ-30287, 23 open jobs total this run). Quant Developer internship, Tel Aviv -- not full-time, not the equity-research/investment-analyst archetype. Excluded from notification criteria."
     }
   ],
   "ares": [
@@ -274,8 +281,43 @@
       "status": "seen_open",
       "first_seen": "2026-10-07",
       "note": "New this run, same Workday 'Analyst' search. Title itself is Associate/Sr. Associate leveled (Analyst is a parenthetical function descriptor, not the job level) -- experienced-hire, not entry-level/new-grad. Excluded from notification criteria."
+    },
+    {
+      "title": "Analyst, Real Estate Acquisitions (Self Storage), Redondo Beach (Workday R7796)",
+      "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/Redondo-Beach-CA/Analyst--Real-Estate-Acquisitions--Self-Storage-_R7796",
+      "status": "seen_open",
+      "first_seen": "2026-10-10",
+      "note": "New this run, surfaced in a direct Ares Workday 'Analyst' keyword search (60 jobs total, up from 59 on 2026-10-07). Real estate acquisitions (self storage) function in Redondo Beach, CA -- not the equity-research/investment-analyst archetype; JD not pulled in full since function alone excludes it. Excluded from notification criteria."
+    },
+    {
+      "title": "Analyst, Multi-Asset Portfolio Solutions (MAPS), New York (Workday R8239)",
+      "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/New-York-NY/Analyst--Multi-Asset-Portfolio-Solutions--MAPS-_R8239",
+      "status": "seen_open",
+      "first_seen": "2026-10-10",
+      "note": "New this run, same Workday 'Analyst' search. NY-based, closest to the target archetype (multi-asset portfolio construction/investment research) of this run's new postings, so pulled the full JD via Firecrawl: 'Qualifications' explicitly requires '1-3 years of experience in alternative investments, private markets investing, portfolio analytics, investment consulting, asset allocation, quantitative research, investment banking or a related field.' Experienced-hire, not entry-level/new-grad. Excluded from notification criteria."
+    },
+    {
+      "title": "Associate, Investor Services, Los Angeles (Workday R8541)",
+      "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/Los-Angeles-CA---Century-City/Analyst--Investor-Services_R8541",
+      "status": "seen_open",
+      "first_seen": "2026-10-10",
+      "note": "New this run, same Workday 'Analyst' search (search-card title read 'Associate, Investor Services' while the URL slug reads 'Analyst--Investor-Services' -- inconsistent naming on Ares' own board). Investor Services/operations function in LA, not the equity-research/investment-analyst archetype; no entry-level/grad-year language surfaced. Excluded from notification criteria."
+    },
+    {
+      "title": "Analyst, Asset Management (Logistics), Oakbrook Terrace (Workday R8618)",
+      "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/Oakbrook-Terrace-IL/Analyst--Asset-Management--Logistics-_R8618",
+      "status": "seen_open",
+      "first_seen": "2026-10-10",
+      "note": "New this run, same Workday 'Analyst' search. Real estate/logistics asset management function in Oakbrook Terrace, IL -- not the equity-research/investment-analyst archetype. Excluded from notification criteria."
+    },
+    {
+      "title": "Analyst, Fund Accounting, Mumbai (Workday R6947)",
+      "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/Mumbai-India/Senior-Associate--Fund-Accounting_R6947",
+      "status": "seen_open",
+      "first_seen": "2026-10-10",
+      "note": "New this run, same Workday 'Analyst' search (search-card title read 'Analyst, Fund Accounting' while the URL slug reads 'Senior-Associate--Fund-Accounting' -- another title/slug mismatch on Ares' board). Fund accounting function in Mumbai, not NY, not the equity-research/investment-analyst archetype. Excluded from notification criteria."
     }
   ],
-  "last_checked": "2026-10-07",
-  "verification_note": "2026-10-07 run: direct Firecrawl fetches (maxAge:0) of campusjobs.mlp.com's live 'Analyst' search (24 open jobs -- down from 29 on 2026-10-01, but still no 'Equities Analyst Program' or any full-time entry-level Analyst role; two new 2027 Quantitative Developer Intern postings surfaced, London and New York, both excluded as internships), www.ares.com/careers and www.ares.com/us/careers/early-careers (both unchanged -- still exclusively the Dec 2027-Aug 2028 Summer Internship cohort, program start June 2027, no full-time Analyst/Graduate Program announced), plus a direct Ares Workday 'Analyst' keyword search (59 jobs on the general experienced-hires board) and targeted web searches for both companies. Findings: (1) Millennium: the attempted R5877 Ares Workday URL from search results 404'd on the exact slug Firecrawl returned, but the corrected R5877-1 URL ('Associate, Portfolio Management, Direct Lending') and all other newly-surfaced Workday 'Analyst' hits were checked by title/snippet; none carry entry-level/new-grad language. The previously-closed 'Equities Analyst Program' (all NY/London/Workday variants) remains absent from the live campusjobs.mlp.com listing -- still closed. (2) Ares: pulled full JDs for the two most plausible 'Analyst' hits on the Workday board (Real Estate Portfolio Management, R7776: requires 1-2 yrs experience; Portfolio Management US Direct Lending, R8606: requires MBA + 0-3 yrs experience) -- both experienced-hire, not entry-level-undergrad. app.the-trackr.com/company/ares-management (checked in the prior run, 2026-10-04) confirmed the US Finance full-time program was still 'Soon'/TBC with no open date; nothing in this run's searches suggests that has changed. No posting meeting BOTH the entry-level equity-research/investment-analyst archetype AND a directly-verified-live status for the Dec 2026-2027 grad window was found at either firm this run. No email was sent."
+  "last_checked": "2026-10-10",
+  "verification_note": "2026-10-10 run: direct Firecrawl fetches (maxAge:0) of campusjobs.mlp.com's live 'Analyst' search (23 open jobs -- down from 24 on 2026-10-07; one new 2027 Quantitative Developer Intern posting surfaced, Tel Aviv, excluded as an internship), www.ares.com/careers and www.ares.com/us/careers/early-careers (both unchanged -- still exclusively the Dec 2027-Aug 2028 Summer Internship cohort, program start June 2027, no full-time Analyst/Graduate Program announced), a direct Ares Workday 'Analyst' keyword search (60 jobs, up from 59 on 2026-10-07), and targeted web searches for both companies (including a direct search for Millennium's 'Equities Analyst Program' and Ares' 'Analyst Program'/'Graduate Program' by name). Findings: (1) Millennium: no 'Equities Analyst Program' or any full-time entry-level Analyst role appears anywhere in the live campusjobs.mlp.com listing -- still closed, consistent with every run since the 2026-09-01 baseline. Web search surfaced MIT-career-office mirrors of the already-known closed 'Equities Analyst Program' postings (New York and Hong Kong, posted May 2025, targeting Dec 2025-June 2026 grads) -- these are stale listings for an earlier grad cycle, not new, and are not live on Millennium's own board. (2) Ares: five new 'Analyst'-titled postings surfaced on the Workday board this run (R7796 Real Estate Acquisitions/Self Storage, R8239 MAPS, R8541 Investor Services, R8618 Asset Management/Logistics, R6947 Fund Accounting). Pulled the full JD for the one most plausible candidate (R8239 MAPS, NY): requires 1-3 years of experience, confirmed experienced-hire. The other four are excluded on function mismatch alone (real estate, investor services, logistics, fund accounting -- none is the equity-research/investment-analyst archetype) without needing a full JD pull. The R5877-1 URL noted as a discrepancy in the 2026-10-07 run continues to 404 on Ares' own board -- not live, not re-added. Web search for an Ares 'Analyst Program'/'Graduate Program' by name turned up no results naming a 2027 full-time cohort; the only confirmed structured program remains the Dec 2027-Aug 2028 Summer Internship. No posting meeting BOTH the entry-level equity-research/investment-analyst archetype AND a directly-verified-live status for the Dec 2026-2027 grad window was found at either firm this run. No email was sent."
 }
