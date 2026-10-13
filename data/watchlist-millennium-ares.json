@@ -316,8 +316,78 @@
       "status": "seen_open",
       "first_seen": "2026-10-10",
       "note": "New this run, same Workday 'Analyst' search (search-card title read 'Analyst, Fund Accounting' while the URL slug reads 'Senior-Associate--Fund-Accounting' -- another title/slug mismatch on Ares' board). Fund accounting function in Mumbai, not NY, not the equity-research/investment-analyst archetype. Excluded from notification criteria."
+    },
+    {
+      "title": "Analyst, Relationship Management, DACH, Frankfurt (Workday R8644-1)",
+      "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/Frankfurt-Germany/Analyst--Relationship-Management--DACH_R8644-1",
+      "status": "seen_open",
+      "first_seen": "2026-10-13",
+      "note": "New this run, surfaced in a direct Ares Workday 'Analyst' keyword search (57 jobs total, down from 60 on 2026-10-10). Directly pulled the full JD via Firecrawl: requirements list 'relevant permanent &/or intern corporate experience -- preference for candidates who have worked in investment banking or asset management, but not a prerequisite' and an undergraduate degree -- plausibly entry-level-friendly on experience. However Frankfurt-based (not NY), requires fluency in German, and is a Relationship Management/marketing function, not the equity-research/investment-analyst archetype. Excluded from notification criteria on archetype and location grounds."
+    },
+    {
+      "title": "Senior Associate, Credit Technology, New York (Workday R8295)",
+      "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/New-York-NY/Analyst--Credit-Technology_R8295",
+      "status": "seen_open",
+      "first_seen": "2026-10-13",
+      "note": "New this run, same Workday 'Analyst' search (URL slug reads 'Analyst--Credit-Technology' but the search-card/canonical title is 'Senior Associate, Credit Technology' -- another title/slug mismatch on Ares' board, consistent with prior runs' R8541/R6947 pattern). Senior Associate level, Credit Technology function -- experienced-hire, not entry-level/new-grad, and not the equity-research/investment-analyst archetype. Excluded from notification criteria."
+    },
+    {
+      "title": "Analyst/Associate, Portfolio Management, Direct Lending, New York (Workday R5877-1)",
+      "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/New-York-NY/Associate--Portfolio-Management--Direct-Lending_R5877-1",
+      "status": "seen_open",
+      "first_seen": "2026-10-13",
+      "note": "Reappeared live this run (noted as 404'd/not live as of the 2026-10-07 run) -- same Workday 'Analyst' search, NY-based, dual Analyst/Associate title. Directly pulled the full JD via Firecrawl: 'Qualifications' requires '1-3 years of finance or accounting experience with exposure to valuation methods.' Experienced-hire, not entry-level/new-grad; also Direct Lending/credit portfolio management, not the equities-research archetype. Excluded from notification criteria."
+    },
+    {
+      "title": "VP, Operational Strategy, New York (Workday R8338-1)",
+      "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/New-York-NY/Vice-President--Operational-Strategy_R8338-1",
+      "status": "seen_open",
+      "first_seen": "2026-10-13",
+      "note": "New this run, same Workday 'Analyst' search (surfaced via keyword match, not an Analyst-leveled title). VP-level, Operational Strategy -- senior-hire, not entry-level/new-grad. Excluded from notification criteria."
+    },
+    {
+      "title": "Head of Sales Engineering, New York (Workday R6523-1)",
+      "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/New-York-NY/Product-Manager--Investor-Information-Systems_R6523-1",
+      "status": "seen_open",
+      "first_seen": "2026-10-13",
+      "note": "New this run, same Workday search. Head-level, Sales Engineering/Investor Information Systems -- senior-hire, not entry-level and not the equity-research/investment-analyst archetype. Excluded from notification criteria."
+    },
+    {
+      "title": "Product Manager, Client Data Platforms, Denver (Workday R7806)",
+      "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/Denver-CO/Product-Manager---Wealth-Management-Technology_R7806",
+      "status": "seen_open",
+      "first_seen": "2026-10-13",
+      "note": "New this run, same Workday search. Product Manager level, technology function in Denver -- not entry-level, not the equity-research/investment-analyst archetype. Excluded from notification criteria."
+    },
+    {
+      "title": "Associate Property Manager, Nashville (Workday R8337)",
+      "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/Nashville-Tennessee/Associate-Property-Manager_R8337",
+      "status": "seen_open",
+      "first_seen": "2026-10-13",
+      "note": "New this run, same Workday search. Associate-level real estate operations role in Nashville -- not the equity-research/investment-analyst archetype; function alone excludes it without a full JD pull. Excluded from notification criteria."
+    },
+    {
+      "title": "Engineer, Quality Assurance, Mumbai (Workday R8563)",
+      "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/Mumbai-India/Engineer--Quality-Assurance_R8563",
+      "status": "seen_open",
+      "first_seen": "2026-10-13",
+      "note": "New this run, same Workday search. Software QA engineering role in Mumbai -- not the equity-research/investment-analyst archetype. Excluded from notification criteria."
+    },
+    {
+      "title": "Director, Capital Controls & Planning, Bellevue (Workday R8591-1)",
+      "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/Bellevue-WA/Director--Capital-Controls---Planning_R8591-1",
+      "status": "seen_open",
+      "first_seen": "2026-10-13",
+      "note": "New this run, same Workday search. Director-level finance role in Bellevue -- senior-hire, not entry-level/new-grad. Excluded from notification criteria."
+    },
+    {
+      "title": "Senior Associate/Associate, Income Fund Management, Real Estate, Tokyo (Workday R6573-1)",
+      "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/Tokyo-Japan/Senior-Associate--Income-Fund-Management_R6573-1",
+      "status": "seen_open",
+      "first_seen": "2026-10-13",
+      "note": "New this run, same Workday search. Senior Associate/Associate level real estate fund management role in Tokyo -- experienced-hire, not entry-level, not the equity-research/investment-analyst archetype. Excluded from notification criteria."
     }
   ],
-  "last_checked": "2026-10-10",
-  "verification_note": "2026-10-10 run: direct Firecrawl fetches (maxAge:0) of campusjobs.mlp.com's live 'Analyst' search (23 open jobs -- down from 24 on 2026-10-07; one new 2027 Quantitative Developer Intern posting surfaced, Tel Aviv, excluded as an internship), www.ares.com/careers and www.ares.com/us/careers/early-careers (both unchanged -- still exclusively the Dec 2027-Aug 2028 Summer Internship cohort, program start June 2027, no full-time Analyst/Graduate Program announced), a direct Ares Workday 'Analyst' keyword search (60 jobs, up from 59 on 2026-10-07), and targeted web searches for both companies (including a direct search for Millennium's 'Equities Analyst Program' and Ares' 'Analyst Program'/'Graduate Program' by name). Findings: (1) Millennium: no 'Equities Analyst Program' or any full-time entry-level Analyst role appears anywhere in the live campusjobs.mlp.com listing -- still closed, consistent with every run since the 2026-09-01 baseline. Web search surfaced MIT-career-office mirrors of the already-known closed 'Equities Analyst Program' postings (New York and Hong Kong, posted May 2025, targeting Dec 2025-June 2026 grads) -- these are stale listings for an earlier grad cycle, not new, and are not live on Millennium's own board. (2) Ares: five new 'Analyst'-titled postings surfaced on the Workday board this run (R7796 Real Estate Acquisitions/Self Storage, R8239 MAPS, R8541 Investor Services, R8618 Asset Management/Logistics, R6947 Fund Accounting). Pulled the full JD for the one most plausible candidate (R8239 MAPS, NY): requires 1-3 years of experience, confirmed experienced-hire. The other four are excluded on function mismatch alone (real estate, investor services, logistics, fund accounting -- none is the equity-research/investment-analyst archetype) without needing a full JD pull. The R5877-1 URL noted as a discrepancy in the 2026-10-07 run continues to 404 on Ares' own board -- not live, not re-added. Web search for an Ares 'Analyst Program'/'Graduate Program' by name turned up no results naming a 2027 full-time cohort; the only confirmed structured program remains the Dec 2027-Aug 2028 Summer Internship. No posting meeting BOTH the entry-level equity-research/investment-analyst archetype AND a directly-verified-live status for the Dec 2026-2027 grad window was found at either firm this run. No email was sent."
+  "last_checked": "2026-10-13",
+  "verification_note": "2026-10-13 run: direct Firecrawl live fetches (maxAge:0) of campusjobs.mlp.com's 'Analyst' search (23 open jobs -- unchanged from 2026-10-10; same role set: Compliance Analyst London, Off-Cycle Trading/AI Eng interns, 2027 Quant Researcher/Developer interns across HK/Shanghai/Dubai/Austin/Zug/London/Tel Aviv -- no new postings, no full-time Analyst/Analyst Program appears anywhere in the live listing), www.ares.com/us/careers/early-careers (unchanged -- still exclusively the Dec 2027-Aug 2028 Summer Internship cohort, program start June 2027, no full-time Analyst/Graduate Program announced), and a direct Ares Workday 'Analyst' keyword search (57 jobs, down from 60 on 2026-10-10). Ten postings on the Workday board were new or had reappeared since the last run (R8644-1 DACH Relationship Management Frankfurt, R8295 Senior Associate Credit Technology NY, R5877-1 Analyst/Associate Direct Lending Portfolio Mgmt NY [reappeared after a 404 on 2026-10-07; full JD pulled, confirmed 1-3yrs experienced-hire], R8338-1 VP Operational Strategy NY, R6523-1 Head of Sales Engineering NY, R7806 PM Client Data Platforms Denver, R8337 Associate Property Manager Nashville, R8563 QA Engineer Mumbai, R8591-1 Director Capital Controls Bellevue, R6573-1 Senior Associate/Associate Income Fund Mgmt Tokyo) -- all excluded on seniority level, function mismatch (not equity-research/investment-analyst archetype), and/or location grounds; two (R8644-1, R5877-1) had full JDs pulled since they were the closest candidates (NY-based or experience language ambiguous on the search card), both confirmed not entry-level or not the right archetype. Targeted web searches for both companies by program name ('Ares Management Analyst Program/Graduate Program 2027', 'Millennium Management Equities Analyst Program New York 2027 December 2026 graduate') surfaced no new full-time entry-level program for either firm's Dec 2026-2027 grad window -- only stale MIT-career-office mirrors of the already-known closed Millennium Equities Analyst Program (Dec 2025-June 2026 cohort, not 2027) and Ares' prior-cycle (2025) summer analyst program postings. No posting meeting BOTH the entry-level equity-research/investment-analyst archetype AND a directly-verified-live status for the Dec 2026-2027 grad window was found at either firm this run. No email was sent."
 }
