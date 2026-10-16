@@ -202,6 +202,20 @@
       "status": "seen_open",
       "first_seen": "2026-10-10",
       "note": "New this run, surfaced in a direct Firecrawl fetch (maxAge:0) of campusjobs.mlp.com's live 'Analyst' search (REQ-30287, 23 open jobs total this run). Quant Developer internship, Tel Aviv -- not full-time, not the equity-research/investment-analyst archetype. Excluded from notification criteria."
+    },
+    {
+      "title": "2027 Sector Specialist Intern, London",
+      "url": "https://mlp.eightfold.ai/careers/job/755957819772",
+      "status": "seen_open",
+      "first_seen": "2026-10-16",
+      "note": "New this run, surfaced via a direct campusjobs.mlp.com 'Sector Specialist' search (REQ-30292, 2 open jobs under that role facet). Full JD pulled directly: Platform Solutions/Sector Specialist Origination team (corporate access, not equity research), requires graduating Dec 2027-July 2028 -- one full grad-cycle later than Arnav's window. Internship, not full-time, wrong cohort, wrong function, wrong location. Excluded from notification criteria."
+    },
+    {
+      "title": "2027 Sector Specialist Intern, Tokyo",
+      "url": "https://mlp.eightfold.ai/careers/job/755957778830",
+      "status": "seen_open",
+      "first_seen": "2026-10-16",
+      "note": "New this run, same 'Sector Specialist' search (REQ-30212). Same Corporate Access Origination function and Dec 2027-July 2028 grad cohort as the London twin above. Internship, not full-time, wrong cohort, wrong function, wrong location. Excluded from notification criteria."
     }
   ],
   "ares": [
@@ -332,6 +346,230 @@
       "note": "New this run, same Workday 'Analyst' search (URL slug reads 'Analyst--Credit-Technology' but the search-card/canonical title is 'Senior Associate, Credit Technology' -- another title/slug mismatch on Ares' board, consistent with prior runs' R8541/R6947 pattern). Senior Associate level, Credit Technology function -- experienced-hire, not entry-level/new-grad, and not the equity-research/investment-analyst archetype. Excluded from notification criteria."
     },
     {
+      "title": "Analyst, US Client Services, New York (Workday R8204-1)",
+      "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/New-York-NY/Senior-Associate--US-Client-Services_R8204-1",
+      "status": "seen_open",
+      "first_seen": "2026-10-16",
+      "note": "New this run (posted 2026-10-15 per the JD), surfaced via the Workday 'Analyst' search using Firecrawl's myworkdayjobs-com structured-data tool (54 jobs total, down from 57 on 2026-10-13). Full JD pulled: AWMS client servicing/transfer-agency function, requires 2+ years of customer service experience, $60-80k base -- experienced-hire, not entry-level/new-grad, and not the equity-research/investment-analyst archetype. Excluded from notification criteria."
+    },
+    {
+      "title": "Senior Associate, Fund Accounting - Co-Investments, Los Angeles (Workday R7680)",
+      "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/Los-Angeles-CA---Century-City/Senior-Associate--Fund-Accounting_R7680",
+      "status": "seen_open",
+      "first_seen": "2026-10-16",
+      "note": "New this run, same structured Workday search. Senior Associate level, fund accounting function -- experienced-hire, not entry-level, not the target archetype. Excluded from notification criteria."
+    },
+    {
+      "title": "Senior Associate, Legal (LaunchPad), Mumbai (Workday R8559)",
+      "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/Mumbai-India/AVP--FLOW_R8559-1",
+      "status": "seen_open",
+      "first_seen": "2026-10-16",
+      "note": "New this run, same structured Workday search. Senior Associate level, legal function, Mumbai -- experienced-hire, not entry-level, not the target archetype or location. Excluded from notification criteria."
+    },
+    {
+      "title": "Video Production Specialist, New York (Workday R8172)",
+      "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/New-York-NY/Video-Production-Specialist_R8172",
+      "status": "seen_open",
+      "first_seen": "2026-10-16",
+      "note": "New this run, same structured Workday search (keyword match only, not an Analyst-leveled role). Media production function -- not the target archetype. Excluded from notification criteria."
+    },
+    {
+      "title": "Vice President, Employee Co-Invest Program, New York (Workday R8581-1)",
+      "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/New-York-NY/Vice-President--Employee-Co-Invest-Program_R8581-1",
+      "status": "seen_open",
+      "first_seen": "2026-10-16",
+      "note": "New this run, same structured Workday search. VP-level -- senior-hire, not entry-level/new-grad. Excluded from notification criteria."
+    },
+    {
+      "title": "Analyst, Revenue Accounting (Non CA), Mumbai (Workday R8544)",
+      "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/Mumbai-India/Analyst--Revenue-Accounting--Non-CA-_R8544",
+      "status": "seen_open",
+      "first_seen": "2026-10-16",
+      "note": "New this run, same structured Workday search. Revenue accounting function, Mumbai -- not the equity-research/investment-analyst archetype or location. Excluded from notification criteria."
+    },
+    {
+      "title": "Analyst, Investment Strategy, Ares Wealth Management Solutions, Denver (Workday R8494)",
+      "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/Denver-CO/Analyst--Marketing--Ares-Wealth-Management-Solutions_R8494",
+      "status": "seen_open",
+      "first_seen": "2026-10-16",
+      "note": "New to tracker this run (posted 2026-09-21 per the JD, surfaced only now via the structured Workday search). Closest new candidate to the target archetype -- private-markets investment strategy/research team -- so pulled the full JD: requires 1-5 years of work experience in private markets/asset management/banking/consulting, Denver-based, $80-100k base. Experienced-hire-leaning (not strictly new-grad) and not NY; also Ares-wide private markets, not public equities research. Excluded from notification criteria."
+    },
+    {
+      "title": "Senior Associate, Shared Business Services (Secondaries RE), Mumbai (Workday R8500-2)",
+      "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/Mumbai-India/Senior-Associate--Strategic-Initiatives_R8500-2",
+      "status": "seen_open",
+      "first_seen": "2026-10-16",
+      "note": "New this run, same structured Workday search. Senior Associate level, shared business services, Mumbai -- not entry-level, not the target archetype. Excluded from notification criteria."
+    },
+    {
+      "title": "Vice President, Financial Applications, Mumbai (Workday R8123)",
+      "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/Mumbai-India/Vice-President--Financial-Applications_R8123",
+      "status": "seen_open",
+      "first_seen": "2026-10-16",
+      "note": "New this run, same structured Workday search. VP-level, technology function, Mumbai -- senior-hire, not the target archetype. Excluded from notification criteria."
+    },
+    {
+      "title": "Analyst, Full Stack Developer (Credit Technology), Mumbai (Workday R8504)",
+      "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/Mumbai-India/Analyst--Full-Stack-Developer--Credit-Technology-_R8504",
+      "status": "seen_open",
+      "first_seen": "2026-10-16",
+      "note": "New this run, same structured Workday search. Software engineering function, Mumbai -- not the equity-research/investment-analyst archetype. Excluded from notification criteria."
+    },
+    {
+      "title": "Data Analyst, Finance Technology, Mumbai (Workday R8454-1)",
+      "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/Mumbai-India/Associate--Finance-Technology-Data-Analyst_R8454-1",
+      "status": "seen_open",
+      "first_seen": "2026-10-16",
+      "note": "New this run, same structured Workday search. Finance technology/data function, Mumbai -- not the target archetype. Excluded from notification criteria."
+    },
+    {
+      "title": "VP, Finance Technology, Mumbai (Workday R8525-3)",
+      "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/Mumbai-India/VP--Finance-Technology_R8525-3",
+      "status": "seen_open",
+      "first_seen": "2026-10-16",
+      "note": "New this run, same structured Workday search. VP-level, technology function, Mumbai -- senior-hire, not the target archetype. Excluded from notification criteria."
+    },
+    {
+      "title": "Sr. Associate (Alternative Credit), Mumbai (Workday R6740)",
+      "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/Mumbai-India/Sr-Associate--Alternative-Credit-_R6740",
+      "status": "seen_open",
+      "first_seen": "2026-10-16",
+      "note": "New this run, same structured Workday search. Senior Associate level, Mumbai -- not entry-level, not the target archetype. Excluded from notification criteria."
+    },
+    {
+      "title": "Analyst, Shared Business Services (Secondaries Real Estate), Mumbai (Workday R8503-2)",
+      "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/Mumbai-India/Analyst--Shared-Business-Services--Secondaries-Real-Estate-_R8503-2",
+      "status": "seen_open",
+      "first_seen": "2026-10-16",
+      "note": "New this run, same structured Workday search. Operations function, Mumbai -- not the target archetype. Excluded from notification criteria."
+    },
+    {
+      "title": "Vice President/Principal, Credit Analyst, Ares Insurance Solutions (AIS), New York (Workday R8536)",
+      "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/New-York-NY/Vice-President-Principal--Credit-Analyst--Ares-Insurance-Solutions--AIS-_R8536",
+      "status": "seen_open",
+      "first_seen": "2026-10-16",
+      "note": "New this run, same structured Workday search. VP/Principal level -- senior-hire, not entry-level/new-grad, despite NY location and 'Analyst' in the function name. Excluded from notification criteria."
+    },
+    {
+      "title": "Associate, Asia Direct Lending, Sydney (Workday R8523)",
+      "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/Sydney-Australia/Associate--Asia-Direct-Lending_R8523",
+      "status": "seen_open",
+      "first_seen": "2026-10-16",
+      "note": "New this run, same structured Workday search. Associate level, Sydney -- not entry-level, not the target archetype. Excluded from notification criteria."
+    },
+    {
+      "title": "Analyst, Data Operations, Ares Insurance Solutions (AIS), New York (Workday R6539)",
+      "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/New-York-NY/Analyst--Risk--Analytics-and-Reporting--AIS_R6539",
+      "status": "seen_open",
+      "first_seen": "2026-10-16",
+      "note": "New this run, same structured Workday search. NY-based but data-operations function within insurance solutions, not equity-research/investment-analyst; no entry-level/grad-year language surfaced on the search card. Excluded from notification criteria."
+    },
+    {
+      "title": "Analyst, ESG - Japan Real Estate, Tokyo (Workday R8453)",
+      "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/Tokyo-Japan/Analyst--ESG---Japan-Real-Estate_R8453",
+      "status": "seen_open",
+      "first_seen": "2026-10-16",
+      "note": "New this run, same structured Workday search. Real estate ESG function, Tokyo -- not the target archetype or location. Excluded from notification criteria."
+    },
+    {
+      "title": "Analyst, Real Estate Equity, Madrid (Workday R8110)",
+      "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/Madrid-Spain/Analyst--Real-Estate-Equity_R8110",
+      "status": "seen_open",
+      "first_seen": "2026-10-16",
+      "note": "New this run, same structured Workday search. Real estate (not public equities) function, Madrid -- not the target archetype or location. Excluded from notification criteria."
+    },
+    {
+      "title": "Analyst, Real Estate Secondaries, Boston (Workday R8140)",
+      "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/Boston-MA/Analyst--Secondaries_R8140",
+      "status": "seen_open",
+      "first_seen": "2026-10-16",
+      "note": "New this run, same structured Workday search. Real estate secondaries function, Boston -- not the target archetype or location. Excluded from notification criteria."
+    },
+    {
+      "title": "Facilities Team Member, Denver (Workday R7275)",
+      "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/Denver-CO/Facilities-Team-Member_R7275",
+      "status": "seen_open",
+      "first_seen": "2026-10-16",
+      "note": "New this run, same structured Workday search (keyword match only). Facilities function -- not the target archetype. Excluded from notification criteria."
+    },
+    {
+      "title": "Associate Vice President, Regional Facilities Manager, EMEA & LATAM, London (Workday R8361-1)",
+      "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/London-UK/Associate-Vice-President--Regional-Facilities-Manager--EMEA---LATAM_R8361-1",
+      "status": "seen_open",
+      "first_seen": "2026-10-16",
+      "note": "New this run, same structured Workday search. AVP-level facilities function, London -- senior-hire, not the target archetype. Excluded from notification criteria."
+    },
+    {
+      "title": "Associate, Co-Investment (IR), Mumbai (Workday R8415)",
+      "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/Mumbai-India/Associate--Co---Investment--IR-_R8415",
+      "status": "seen_open",
+      "first_seen": "2026-10-16",
+      "note": "New this run, same structured Workday search. Associate level, investor relations function, Mumbai -- not entry-level, not the target archetype. Excluded from notification criteria."
+    },
+    {
+      "title": "Associate Vice President, Credit Technology Engineering, London (Workday R8314-1)",
+      "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/London-UK/Staff-Engineer--Credit-Technology_R8314-1",
+      "status": "seen_open",
+      "first_seen": "2026-10-16",
+      "note": "New this run, same structured Workday search. AVP-level engineering function, London -- senior-hire, not the target archetype. Excluded from notification criteria."
+    },
+    {
+      "title": "Associate, Investment Operations, New York (Workday R8160)",
+      "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/New-York-NY/Associate--Operational-Excellence_R8160",
+      "status": "seen_open",
+      "first_seen": "2026-10-16",
+      "note": "New this run, same structured Workday search. Associate level, operations function, NY -- not entry-level, not the target archetype. Excluded from notification criteria."
+    },
+    {
+      "title": "Vice President, U.S. Logistics Development, Rutherford NJ (Workday R8116)",
+      "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/Rutherford-NJ/Vice-President---US-Logistics-Development_R8116",
+      "status": "seen_open",
+      "first_seen": "2026-10-16",
+      "note": "New this run, same structured Workday search. VP-level real estate function -- senior-hire, not the target archetype. Excluded from notification criteria."
+    },
+    {
+      "title": "Senior Associate, Income Fund Management, Tokyo (Workday R6374)",
+      "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/Tokyo-Japan/Senior-Associate--Income-Fund-Management_R6374",
+      "status": "seen_open",
+      "first_seen": "2026-10-16",
+      "note": "New this run, same structured Workday search (distinct req from the previously-tracked R6573-1 Senior Associate/Associate Income Fund Mgmt Tokyo listing). Senior Associate level -- not entry-level, not the target archetype. Excluded from notification criteria."
+    },
+    {
+      "title": "Vice President, Investor Relations Product Specialist, Mumbai (Workday R7244)",
+      "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/Mumbai-India/Vice-President--Investor-Relations-Product-Specialist_R7244",
+      "status": "seen_open",
+      "first_seen": "2026-10-16",
+      "note": "New this run, same structured Workday search. VP-level, Mumbai -- senior-hire, not the target archetype. Excluded from notification criteria."
+    },
+    {
+      "title": "Senior Credit Trader, Principal, Liquid Credit, New York (Workday R8084)",
+      "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/New-York-NY/Senior-Credit-Trader--Vice-President-Or-Principal--Liquid-Credit_R8084",
+      "status": "seen_open",
+      "first_seen": "2026-10-16",
+      "note": "New this run, same structured Workday search. Senior trading role, NY -- senior-hire, not entry-level/new-grad. Excluded from notification criteria."
+    },
+    {
+      "title": "Analyst, Real Estate (Portfolio Management), Denver (Workday R7318)",
+      "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/Denver-CO/Analyst--Real-Estate--Portfolio-Management-_R7318",
+      "status": "seen_open",
+      "first_seen": "2026-10-16",
+      "note": "New this run, same structured Workday search (distinct req from the previously-tracked R7776 Analyst Real Estate Portfolio Mgmt LA listing). Real estate function, Denver -- not the equity-research/investment-analyst archetype. Excluded from notification criteria."
+    },
+    {
+      "title": "Associate, Private Equity, Los Angeles (Workday R6499)",
+      "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/Los-Angeles-CA---Century-City/Associate--Private-Equity_R6499",
+      "status": "seen_open",
+      "first_seen": "2026-10-16",
+      "note": "New this run, same structured Workday search. Associate level, LA -- not entry-level/new-grad. Excluded from notification criteria."
+    },
+    {
+      "title": "Associate, Legal and Compliance Technology, Mumbai (Workday R7290)",
+      "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/Mumbai-India/Associate--Legal-and-Compliance-Technology_R7290",
+      "status": "seen_open",
+      "first_seen": "2026-10-16",
+      "note": "New this run, same structured Workday search. Associate level, Mumbai -- not entry-level, not the target archetype. Excluded from notification criteria."
+    },
+    {
       "title": "Analyst/Associate, Portfolio Management, Direct Lending, New York (Workday R5877-1)",
       "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/New-York-NY/Associate--Portfolio-Management--Direct-Lending_R5877-1",
       "status": "seen_open",
@@ -388,6 +626,6 @@
       "note": "New this run, same Workday search. Senior Associate/Associate level real estate fund management role in Tokyo -- experienced-hire, not entry-level, not the equity-research/investment-analyst archetype. Excluded from notification criteria."
     }
   ],
-  "last_checked": "2026-10-13",
-  "verification_note": "2026-10-13 run: direct Firecrawl live fetches (maxAge:0) of campusjobs.mlp.com's 'Analyst' search (23 open jobs -- unchanged from 2026-10-10; same role set: Compliance Analyst London, Off-Cycle Trading/AI Eng interns, 2027 Quant Researcher/Developer interns across HK/Shanghai/Dubai/Austin/Zug/London/Tel Aviv -- no new postings, no full-time Analyst/Analyst Program appears anywhere in the live listing), www.ares.com/us/careers/early-careers (unchanged -- still exclusively the Dec 2027-Aug 2028 Summer Internship cohort, program start June 2027, no full-time Analyst/Graduate Program announced), and a direct Ares Workday 'Analyst' keyword search (57 jobs, down from 60 on 2026-10-10). Ten postings on the Workday board were new or had reappeared since the last run (R8644-1 DACH Relationship Management Frankfurt, R8295 Senior Associate Credit Technology NY, R5877-1 Analyst/Associate Direct Lending Portfolio Mgmt NY [reappeared after a 404 on 2026-10-07; full JD pulled, confirmed 1-3yrs experienced-hire], R8338-1 VP Operational Strategy NY, R6523-1 Head of Sales Engineering NY, R7806 PM Client Data Platforms Denver, R8337 Associate Property Manager Nashville, R8563 QA Engineer Mumbai, R8591-1 Director Capital Controls Bellevue, R6573-1 Senior Associate/Associate Income Fund Mgmt Tokyo) -- all excluded on seniority level, function mismatch (not equity-research/investment-analyst archetype), and/or location grounds; two (R8644-1, R5877-1) had full JDs pulled since they were the closest candidates (NY-based or experience language ambiguous on the search card), both confirmed not entry-level or not the right archetype. Targeted web searches for both companies by program name ('Ares Management Analyst Program/Graduate Program 2027', 'Millennium Management Equities Analyst Program New York 2027 December 2026 graduate') surfaced no new full-time entry-level program for either firm's Dec 2026-2027 grad window -- only stale MIT-career-office mirrors of the already-known closed Millennium Equities Analyst Program (Dec 2025-June 2026 cohort, not 2027) and Ares' prior-cycle (2025) summer analyst program postings. No posting meeting BOTH the entry-level equity-research/investment-analyst archetype AND a directly-verified-live status for the Dec 2026-2027 grad window was found at either firm this run. No email was sent."
+  "last_checked": "2026-10-16",
+  "verification_note": "2026-10-16 run: direct Firecrawl live fetch (maxAge:0) of campusjobs.mlp.com's 'Analyst' search (22 open jobs, down from 23 on 2026-10-13; same core role set -- Compliance Analyst London, Off-Cycle Trading/AI Eng interns, 2027 Quant Researcher/Developer interns across HK/Shanghai/Dubai/Austin/Zug/London/Tel Aviv -- no full-time Analyst/Analyst Program anywhere in the live listing) plus a follow-up 'Sector Specialist' facet search that surfaced two new intern postings (REQ-30292 London, REQ-30212 Tokyo) -- both full JDs pulled directly: Corporate Access/Sector Specialist Origination function, Dec 2027-July 2028 grad cohort (one cycle too late), internship not full-time. www.ares.com/us/careers/early-careers unchanged (still exclusively the Dec 2027-Aug 2028 Summer Internship cohort, program start June 2027, no full-time Analyst/Graduate Program announced). For Ares' Workday board, switched to Firecrawl's myworkdayjobs-com structured-data tool (jobs/search_jobs + jobs/get_job) for a complete, paginated 'Analyst' keyword search: 54 total matches (down from 57 on 2026-10-13), all three pages (offsets 0/20/40) retrieved in full. 32 postings were new to the tracker this run, spanning NY/Denver/LA/Mumbai/London/Tokyo/Sydney/Boston/Madrid/Rutherford NJ -- all excluded on seniority level (Senior Associate/VP/Principal/AVP/Director), function mismatch (client services, fund/revenue accounting, legal, facilities, engineering, real estate, credit trading, investor relations -- none equity-research), explicit experience requirements (e.g. R8204-1 Analyst/US Client Services NY requires 2+ yrs, posted 2026-10-15; R8494 Analyst/Investment Strategy/AWMS Denver requires 1-5 yrs, the closest archetype match this run but private-markets strategy, not public equities, and not NY), and/or non-US/non-NY location. Full JDs were pulled for the two closest-looking candidates (R8204-1, R8494); both confirmed not a fit. Targeted web searches for both firms by program name ('Millennium Management Equities Analyst Program 2027 campus December 2026 graduate', 'Ares Management Analyst Program/Graduate Program full-time 2027 new grad') again surfaced no new full-time entry-level program for either firm's Dec 2026-2027 grad window -- only stale MIT/Arcadia/Handshake mirrors of already-known closed or wrong-cohort postings. No posting meeting BOTH the entry-level equity-research/investment-analyst archetype AND a directly-verified-live status for the Dec 2026-2027 grad window was found at either firm this run. No email was sent."
 }
