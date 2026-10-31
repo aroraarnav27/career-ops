@@ -285,9 +285,9 @@
     {
       "title": "Analyst, Real Estate (Portfolio Management), Los Angeles/Chicago (Workday R7776)",
       "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/Los-Angeles-CA---Century-City/Analyst--Real-Estate--Portfolio-Management-_R7776",
-      "status": "seen_open",
+      "status": "seen_closed",
       "first_seen": "2026-10-07",
-      "note": "New this run, same Workday 'Analyst' search. Directly pulled the full JD via Firecrawl: 'Required Knowledge, Skills & Abilities' states '1 to 2 years of applicable work experience, preferably in commercial real estate ... or investment banking.' Experienced-hire, not entry-level/new-grad; also real estate portfolio management, not equity-research. Excluded from notification criteria."
+      "note": "Already excluded (experienced-hire real estate portfolio management, not equity-research). No longer appearing in the full paginated Workday 'Analyst' search as of 2026-10-31 (51 total reqs, down from 55 on 2026-10-28); marked closed/filled."
     },
     {
       "title": "Analyst, Portfolio Management US Direct Lending, Mumbai (Workday R8606)",
@@ -341,9 +341,9 @@
     {
       "title": "Analyst, Fund Accounting, Mumbai (Workday R6947)",
       "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/Mumbai-India/Senior-Associate--Fund-Accounting_R6947",
-      "status": "seen_open",
+      "status": "seen_closed",
       "first_seen": "2026-10-10",
-      "note": "New this run, same Workday 'Analyst' search (search-card title read 'Analyst, Fund Accounting' while the URL slug reads 'Senior-Associate--Fund-Accounting' -- another title/slug mismatch on Ares' board). Fund accounting function in Mumbai, not NY, not the equity-research/investment-analyst archetype. Excluded from notification criteria."
+      "note": "Already excluded (fund accounting function, Mumbai, not equity-research). No longer appearing in the full paginated Workday 'Analyst' search as of 2026-10-31 (51 total reqs, down from 55 on 2026-10-28); marked closed/filled."
     },
     {
       "title": "Analyst, Relationship Management, DACH, Frankfurt (Workday R8644-1)",
@@ -369,9 +369,9 @@
     {
       "title": "Senior Associate, Fund Accounting - Co-Investments, Los Angeles (Workday R7680)",
       "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/Los-Angeles-CA---Century-City/Senior-Associate--Fund-Accounting_R7680",
-      "status": "seen_open",
+      "status": "seen_closed",
       "first_seen": "2026-10-16",
-      "note": "New this run, same structured Workday search. Senior Associate level, fund accounting function -- experienced-hire, not entry-level, not the target archetype. Excluded from notification criteria."
+      "note": "Already excluded (Senior Associate level, fund accounting, not entry-level or target archetype). No longer appearing in the full paginated Workday 'Analyst' search as of 2026-10-31 (51 total reqs, down from 55 on 2026-10-28); marked closed/filled."
     },
     {
       "title": "Senior Associate, Legal (LaunchPad), Mumbai (Workday R8559)",
@@ -425,9 +425,9 @@
     {
       "title": "Analyst, Full Stack Developer (Credit Technology), Mumbai (Workday R8504)",
       "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/Mumbai-India/Analyst--Full-Stack-Developer--Credit-Technology-_R8504",
-      "status": "seen_open",
+      "status": "seen_closed",
       "first_seen": "2026-10-16",
-      "note": "New this run, same structured Workday search. Software engineering function, Mumbai -- not the equity-research/investment-analyst archetype. Excluded from notification criteria."
+      "note": "Already excluded (software engineering function, Mumbai, not equity-research/investment-analyst archetype). No longer appearing in the full paginated Workday 'Analyst' search as of 2026-10-31 (51 total reqs, down from 55 on 2026-10-28); marked closed/filled."
     },
     {
       "title": "Data Analyst, Finance Technology, Mumbai (Workday R8454-1)",
@@ -565,9 +565,9 @@
     {
       "title": "Analyst, Real Estate (Portfolio Management), Denver (Workday R7318)",
       "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/Denver-CO/Analyst--Real-Estate--Portfolio-Management-_R7318",
-      "status": "seen_open",
+      "status": "seen_closed",
       "first_seen": "2026-10-16",
-      "note": "New this run, same structured Workday search (distinct req from the previously-tracked R7776 Analyst Real Estate Portfolio Mgmt LA listing). Real estate function, Denver -- not the equity-research/investment-analyst archetype. Excluded from notification criteria."
+      "note": "Already excluded (real estate function, Denver, not equity-research/investment-analyst archetype). No longer appearing in the full paginated Workday 'Analyst' search as of 2026-10-31 (51 total reqs, down from 55 on 2026-10-28); marked closed/filled."
     },
     {
       "title": "Associate, Private Equity, Los Angeles (Workday R6499)",
@@ -689,6 +689,6 @@
       "note": "New this run, same structured Workday search. Real estate (logistics) asset management function in Milan -- not the equity-research/investment-analyst archetype or location (not NY, not public equities). Excluded from notification criteria."
     }
   ],
-  "last_checked": "2026-10-28",
-  "verification_note": "2026-10-28 run: direct Firecrawl live fetch (maxAge:0) of campusjobs.mlp.com's 'Analyst' search returned 21 open jobs, flat vs. 2026-10-25, and with identical role facets (Quantitative Researcher:7, Quantitative Developer:4, plus the same single/low-count Compliance, Sector Specialist, Applied AI Engineer, Corporate Access Services, Digital Marketing, Finance, Market Risk, Operations and Middle Office categories already tracked) -- no full-time Analyst/Analyst Program role anywhere in the listing or facets, program remains closed. The visible position cards on this run's fetch (REQ-31565/31566, REQ-27820, REQ-30687/30688, REQ-30700, REQ-30475, REQ-30453, REQ-30359, REQ-30280) all already match previously-tracked, previously-excluded reqs -- zero new Millennium postings this run. www.ares.com/us/careers/early-careers re-fetched via Firecrawl and unchanged: still exclusively the Dec 2027-Aug 2028 Summer Internship cohort, program start June 2027, no full-time Analyst/Graduate Program for Arnav's Dec 2026-2027 window (a direct WebFetch of this same URL failed with DNS resolution blocked in this session's network policy, so Firecrawl was used instead, as in prior runs). Ares' Workday 'Analyst' keyword search read in full via the site's structured-data provider (3 paginated calls, offset 0/20/40) -- 55 jobs total (up from 54 on 2026-10-25). Diffed all 55 req numbers against this tracker: 51 already matched a previously-tracked, previously-excluded req; 4 were new (R8704 Associate/Analyst SPV Oversight Mumbai, R8703 Senior Associate SPV Oversight Mumbai, R8708 Product Manager Institutional/Wealth Technology New York, R8699 Analyst Real Estate Asset Management Logistics Milan) -- all four excluded by function (fund ops, product/tech, real estate) and/or location (Mumbai, Milan) rather than the targeted equity-research/investment-analyst archetype; added to this file as excluded, no full JD pull needed since function/location alone was dispositive. Ran both required web searches: 'site:campusjobs.mlp.com OR site:linkedin.com/jobs \"Millennium Management\" \"Analyst\" entry level 2027' again surfaced only third-party/university mirrors (MIT CDO resources.cdo.mit.edu, Monster, jobspipe.dev, echojobs.io, eFinancialCareers, careers.outforundergrad.org, Arcadia careerlaunchpad, Vaia, Talentify, catalitium.com, mncjobsindia.com), no direct campusjobs.mlp.com or linkedin.com/jobs hits; the London 'Graduate Analyst - Trading & Quant' (Talentify mirror, REQ-19634) and 2027 internship listings (Arcadia) are already tracked, and an echojobs 'Engineering Analyst, London' posting targets 2026 graduates, one grad-cycle earlier than Arnav's window -- excluded on cohort grounds. 'site:ares.com/careers OR site:linkedin.com/jobs \"Ares Management\" \"Analyst\" entry level 2027 graduate' again surfaced only third-party boards (MIT CDO, builtin.com, tealhq.com, careers.outforundergrad.org, swooped.co, growthequityinterviewguide.com, career.com, jobs.weekday.works, jobs.wallstreetcareers.com, catalitium.com) with no result naming ares.com or linkedin.com/jobs directly and no posting tagged for the 2027 grad class; the closest ('2026 Analyst, Commercial Finance,' entry-level-tagged, posted 2025-09-11) targets the 2026 cohort, one cycle earlier than Arnav's window, and is not newly surfaced. No posting meeting BOTH the entry-level equity-research/investment-analyst archetype AND a directly-verified-live status for the Dec 2026-2027 grad window was found at either firm this run. No email was sent. (Note: portals.yml still does not exist in this repo as of this run -- only templates/portals.example.yml and test-fixture copies are present. Not acted on since this watch's own scope is limited to this state file.)"
+  "last_checked": "2026-10-31",
+  "verification_note": "2026-10-31 run: direct Firecrawl live fetch (maxAge:0) of campusjobs.mlp.com's 'Analyst' search returned 21 open jobs, flat vs. 2026-10-28, with identical role facets (Quantitative Researcher:7, Quantitative Developer:4, plus the same single/low-count Compliance, Sector Specialist, Applied AI Engineer, Digital Marketing, Finance, Market Risk, Operations and Middle Office categories already tracked) -- no full-time Analyst/Analyst Program role anywhere in the listing or facets, program remains closed. Confirmed the visible/facet-identified reqs (REQ-31565/31566, REQ-27820, REQ-30687/30688, REQ-30700, REQ-30475, REQ-30453, REQ-30359, REQ-30280) all already match previously-tracked, previously-excluded reqs -- zero new Millennium postings this run. www.ares.com/us/careers/early-careers re-fetched via Firecrawl and unchanged: still exclusively the Dec 2027-Aug 2028 Summer Internship cohort, program start June 2027, no full-time Analyst/Graduate Program for Arnav's Dec 2026-2027 window. Ares' Workday 'Analyst' keyword search read in full via the site's structured-data provider (3 paginated calls, offset 0/20/40) -- 51 jobs total (down from 55 on 2026-10-28). Diffed all 51 req numbers against this tracker: every single one already matched a previously-tracked, previously-excluded req -- zero new Ares postings this run. Five previously-tracked open reqs (R7776 Analyst RE Portfolio Mgmt LA, R6947 Analyst Fund Accounting Mumbai, R7680 Senior Associate Fund Accounting Co-Investments LA, R8504 Analyst Full Stack Developer Credit Tech Mumbai, R7318 Analyst RE Portfolio Mgmt Denver) no longer appear in the live search and are marked seen_closed this run; all were already excluded by function/experience-level, so this has no effect on notification status. Ran both required web searches: 'site:campusjobs.mlp.com OR site:linkedin.com/jobs \"Millennium Management\" \"Analyst\" entry level 2027' again surfaced only third-party/university mirrors (MIT CDO, Monster, jobspipe.dev, echojobs.io, eFinancialCareers, careers.outforundergrad.org, Arcadia careerlaunchpad, Vaia, Talentify, catalitium.com, mncjobsindia.com), no direct campusjobs.mlp.com or linkedin.com/jobs hits; results matched previously-tracked/excluded postings (closed Risk Analyst-Equities, closed Graduate Analyst-Trading&Quant London, internships, a 2026-grad-cohort Engineering Analyst London). 'site:ares.com/careers OR site:linkedin.com/jobs \"Ares Management\" \"Analyst\" entry level 2027 graduate' again surfaced only third-party boards (MIT CDO, jobs.weekday.works, builtin.com, careers.outforundergrad.org, tealhq.com, swooped.co, growthequityinterviewguide.com, career.com, jobs.wallstreetcareers.com, catalitium.com) with no result naming ares.com or linkedin.com/jobs directly and no posting tagged for the 2027 grad class; the closest ('2026 Analyst, Commercial Finance') targets the 2026 cohort, one cycle earlier than Arnav's window, and is not newly surfaced. No posting meeting BOTH the entry-level equity-research/investment-analyst archetype AND a directly-verified-live status for the Dec 2026-2027 grad window was found at either firm this run. No email was sent. (Note: portals.yml still does not exist in this repo as of this run -- only templates/portals.example.yml and test-fixture copies are present. Not acted on since this watch's own scope is limited to this state file.)"
 }
