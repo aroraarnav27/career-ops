@@ -230,6 +230,27 @@
       "status": "seen_open",
       "first_seen": "2026-10-25",
       "note": "New this run, same search (REQ-31566). Off-cycle trading internship in Quant Strategies, Shanghai -- not full-time, not the target archetype. Excluded from notification criteria."
+    },
+    {
+      "title": "2027 Quantitative Intern, Dublin (6 Month Internship)",
+      "url": "https://mlp.eightfold.ai/careers/job/755958176965",
+      "status": "seen_open",
+      "first_seen": "2026-11-10",
+      "note": "New this run, surfaced in a direct Firecrawl fetch (maxAge:0) of campusjobs.mlp.com's live 'Analyst' search (REQ-30695, 23 open jobs total this run, up from 20 on 2026-11-07). Quantitative Research internship, Dublin, 6-month internship starting March 2027 -- not full-time, not the equity-research/investment-analyst archetype. Excluded from notification criteria."
+    },
+    {
+      "title": "2027 Quantitative Researcher Intern, Dubai (6 Month Internship)",
+      "url": "https://mlp.eightfold.ai/careers/job/755958178295",
+      "status": "seen_open",
+      "first_seen": "2026-11-10",
+      "note": "New this run, same search (REQ-30698). Quantitative Researcher internship, Dubai -- not full-time, not the target archetype. Excluded from notification criteria."
+    },
+    {
+      "title": "2027 Quantitative Researcher Intern, London (6 Month Internship)",
+      "url": "https://mlp.eightfold.ai/careers/job/755958178483",
+      "status": "seen_open",
+      "first_seen": "2026-11-10",
+      "note": "New this run, same search (REQ-30702). Quantitative Researcher internship, London -- not full-time, not the target archetype. Note: this and REQ-30695/REQ-30698 above are the only postings behind the newly-appeared 'Hedge Fund' and 'Investment Banking' role facets (3 each, same 3 jobs dual-tagged) -- confirmed by filtering the search on each facet directly; not a new full-time Analyst Program as the facet names might suggest. Excluded from notification criteria."
     }
   ],
   "ares": [
@@ -750,8 +771,22 @@
       "status": "seen_open",
       "first_seen": "2026-11-07",
       "note": "New this run, same structured Workday search. Senior Associate level, FP&A/Real Assets function, NY -- experienced-hire, not entry-level/new-grad, and not the equity-research/investment-analyst archetype. Excluded from notification criteria."
+    },
+    {
+      "title": "Senior Associate, Investment Operations, Global Asset Servicing (Workday R8693)",
+      "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/Los-Angeles-CA---Century-City/Senior-Associate--Investment-Operations--Global-Asset-Servicing_R8693",
+      "status": "seen_open",
+      "first_seen": "2026-11-10",
+      "note": "New this run, surfaced in a direct Firecrawl fetch of Ares' Workday 'Analyst' keyword search (52 jobs total, down from 54 on 2026-11-07). Senior Associate level, Investment Operations/Global Asset Servicing function -- experienced-hire, not entry-level/new-grad, and not the equity-research/investment-analyst archetype. Excluded from notification criteria."
+    },
+    {
+      "title": "2026 Analyst - Commercial Finance (Ares Commercial Finance / US Direct Lending), Tarrytown/Chicago/Atlanta",
+      "url": "https://careers.outforundergrad.org/companies/ares-management/jobs/58368277-2026-analyst-commercial-finance",
+      "status": "seen_closed",
+      "first_seen": "2026-11-10",
+      "note": "New this run, found via the required web search (mirror listing only; not found on Ares' own en-US/External Workday board, which is the keyword-filtered subset of their full board). Directly re-fetched via Firecrawl: confirmed genuine Ares Management Corporation posting (Asset-Based Lending Analyst within Ares Commercial Finance / US Direct Lending), but the mirror itself states 'This job is no longer accepting applications' -- closed on discovery. Also wrong grad cohort (anticipated graduation Dec 2025-Aug 2026, start August 2026 -- one full cycle earlier than Arnav's Dec 2026-2027 window) and wrong function (asset-based lending/credit underwriting, not equity research/investment-analyst). Excluded from notification criteria on all three grounds."
     }
   ],
-  "last_checked": "2026-11-07",
-  "verification_note": "2026-11-07 run: direct Firecrawl live fetch (maxAge:0) of campusjobs.mlp.com's 'Analyst' search returned 20 open jobs (unchanged from 20 on 2026-11-04), with the same top-of-list postings as prior runs (REQ-31565/31566 Off-Cycle Trading Intern HK/Shanghai, REQ-27820, REQ-30687/30688, REQ-30700, REQ-30475, REQ-30453, REQ-30359, REQ-30280) and the same role facets (Quantitative Researcher:7, Quantitative Developer:4, Applied AI Engineer:1, Compliance:1, Digital Marketing and Social Media:1, Finance:1, Market Risk:1, Operations and Middle Office:1, Sector Specialist:1) -- no full-time Analyst/Analyst Program role anywhere in the listing or facets; the program remains closed. Zero new Millennium postings this run. www.ares.com/us/careers/early-careers re-fetched via Firecrawl and unchanged: still exclusively the Dec 2027-Aug 2028 Summer Internship cohort, program start June 2027, no full-time Analyst/Graduate Program for Arnav's Dec 2026-2027 window. Ares' Workday 'Analyst' keyword search read in full via the site's structured-data provider (3 paginated calls, offset 0/20/40, career_site=https://aresmgmt.wd1.myworkdayjobs.com/en-US/External) -- 54 jobs total, up from 52 on 2026-11-04. Diffed all 54 req numbers against this tracker: two new (R8709 Analyst Full Stack Developer Credit Technology Mumbai, R8658 Senior Associate FP&A Real Assets NY) plus one reappearance (R7796 Analyst Real Estate Acquisitions Self Storage Redondo Beach, previously marked closed/filled as of 2026-11-04, now live again) -- all excluded on function/level/location grounds without a full JD pull, consistent with this tracker's established pattern for identical functions already evaluated in full. Ran both required web searches: 'site:campusjobs.mlp.com OR site:linkedin.com/jobs \"Millennium Management\" \"Analyst\" entry level 2027' surfaced no direct campusjobs.mlp.com or linkedin.com/jobs hits -- only third-party job-board mirrors (MIT CDO, Monster, Talentify, Catalitium, Arcadia career portal, etc.) of already-tracked or already-closed listings, none new or confirmable as live full-time entry-level equity-research analyst roles. 'site:ares.com/careers OR site:linkedin.com/jobs \"Ares Management\" \"Analyst\" entry level 2027 graduate' surfaced no direct ares.com/careers or linkedin.com/jobs hits either -- only third-party mirrors (MIT CDO, Weekday, BuiltIn, OutForUndergrad, TealHQ, growthequityinterviewguide, etc.) of roles already covered by the Workday search above or clearly experienced-hire/off-archetype, none new. No posting meeting BOTH the entry-level equity-research/investment-analyst archetype AND a directly-verified-live status for the Dec 2026-2027 grad window was found at either firm this run. No email was sent. (Note: portals.yml still does not exist in this repo as of this run -- only templates/portals.example.yml and test-fixture copies are present. Not acted on since this watch's own scope is limited to this state file.)"
+  "last_checked": "2026-11-10",
+  "verification_note": "2026-11-10 run: direct Firecrawl live fetch (maxAge:0) of campusjobs.mlp.com's 'Analyst' search returned 23 open jobs (up from 20 on 2026-11-07). Diffed against the tracker: 3 new postings, all 6-month internships (REQ-30695 Quantitative Intern Dublin, REQ-30698 Quantitative Researcher Intern Dubai, REQ-30702 Quantitative Researcher Intern London), none full-time. These 3 are also the sole jobs behind two role facets that appeared for the first time this run ('Hedge Fund':3, 'Investment Banking':3) -- confirmed by filtering the search on each facet directly, both resolved to the exact same 3 intern reqs (dual-tagged), not a new Analyst Program. Updated full facet picture: Quantitative Researcher:7, Quantitative Developer:4, Hedge Fund:3, Investment Banking:3, Applied AI Engineer:1, Compliance:1, Digital Marketing and Social Media:1, Finance:1, Market Risk:1, Operations and Middle Office:1, Sector Specialist:1 (sums to 23). No full-time Analyst/Analyst Program role anywhere in the listing or facets; the program remains closed. www.ares.com/us/careers/early-careers re-fetched via Firecrawl and unchanged: still exclusively the Dec 2027-Aug 2028 Summer Internship cohort, program start June 2027, no full-time Analyst/Graduate Program for Arnav's Dec 2026-2027 window. Ares' Workday 'Analyst' keyword search re-fetched directly -- 52 jobs total, down from 54 on 2026-11-07. Diffed all visible reqs against the tracker: one new (R8693 Senior Associate Investment Operations Global Asset Servicing, LA/NY -- experienced-hire, excluded), the rest already tracked. Ran both required web searches: 'site:campusjobs.mlp.com OR site:linkedin.com/jobs \"Millennium Management\" \"Analyst\" entry level 2027' surfaced no direct campusjobs.mlp.com or linkedin.com/jobs hits -- only third-party mirrors (MIT CDO, Monster, Talentify, Catalitium, Arcadia, OutForUndergrad, Vaia, eFinancialCareers, etc.) of already-tracked or already-closed listings, none new/confirmable as live full-time entry-level equity-research analyst roles. 'site:ares.com/careers OR site:linkedin.com/jobs \"Ares Management\" \"Analyst\" entry level 2027 graduate' surfaced no direct ares.com/careers or linkedin.com/jobs hits either -- mostly mirrors of roles already covered by the Workday search above or clearly experienced-hire/off-archetype; one new mirror finding (2026 Analyst - Commercial Finance, logged above) directly verified via Firecrawl as a genuine but closed, wrong-cohort, wrong-function Ares posting. No posting meeting BOTH the entry-level equity-research/investment-analyst archetype AND a directly-verified-live status for the Dec 2026-2027 grad window was found at either firm this run. No email was sent."
 }
